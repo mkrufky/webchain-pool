@@ -11,7 +11,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/webchain-network/webchain-pool/util"
+	"github.com/mkrufky/webchain-pool/util"
 )
 
 type RPCClient struct {

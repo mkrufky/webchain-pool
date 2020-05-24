@@ -9,8 +9,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/webchain-network/webchain-pool/storage"
-	"github.com/webchain-network/webchain-pool/util"
+	"github.com/mkrufky/webchain-pool/storage"
+	"github.com/mkrufky/webchain-pool/util"
 )
 
 type Config struct {

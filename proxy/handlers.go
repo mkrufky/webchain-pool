@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/webchain-network/webchain-pool/rpc"
-	"github.com/webchain-network/webchain-pool/util"
+	"github.com/mkrufky/webchain-pool/rpc"
+	"github.com/mkrufky/webchain-pool/util"
 )
 
 // Allow only lowercase hexadecimal with 0x prefix

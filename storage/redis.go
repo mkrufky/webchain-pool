@@ -7,10 +7,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/webchain-network/webchaind/common"
+	"github.com/mkrufky/webchaind/common"
 	"gopkg.in/redis.v3"
 
-	"github.com/webchain-network/webchain-pool/util"
+	"github.com/mkrufky/webchain-pool/util"
 )
 
 type Config struct {

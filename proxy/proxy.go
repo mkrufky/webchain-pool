@@ -13,10 +13,10 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/webchain-network/webchain-pool/policy"
-	"github.com/webchain-network/webchain-pool/rpc"
-	"github.com/webchain-network/webchain-pool/storage"
-	"github.com/webchain-network/webchain-pool/util"
+	"github.com/mkrufky/webchain-pool/policy"
+	"github.com/mkrufky/webchain-pool/rpc"
+	"github.com/mkrufky/webchain-pool/storage"
+	"github.com/mkrufky/webchain-pool/util"
 )
 
 type ProxyServer struct {

@@ -11,10 +11,10 @@ import (
 
 	"github.com/yvasiyarov/gorelic"
 
-	"github.com/webchain-network/webchain-pool/api"
-	"github.com/webchain-network/webchain-pool/payouts"
-	"github.com/webchain-network/webchain-pool/proxy"
-	"github.com/webchain-network/webchain-pool/storage"
+	"github.com/mkrufky/webchain-pool/api"
+	"github.com/mkrufky/webchain-pool/payouts"
+	"github.com/mkrufky/webchain-pool/proxy"
+	"github.com/mkrufky/webchain-pool/storage"
 )
 
 var cfg proxy.Config

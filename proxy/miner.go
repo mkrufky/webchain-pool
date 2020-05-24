@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/webchain-network/cryptonight"
+	"github.com/mkrufky/cryptonight"
 )
 
 var lyra2_block uint64 = 2022222

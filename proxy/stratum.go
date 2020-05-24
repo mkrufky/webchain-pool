@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"strconv"
-	"github.com/webchain-network/webchain-pool/util"
+	"github.com/mkrufky/webchain-pool/util"
 )
 
 const (

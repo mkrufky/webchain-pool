@@ -1,6 +1,6 @@
 ## Open Source Webchain Mining Pool
 
-What follows next is the basic short guide. Main page of the project is located at https://webchain.network. If you have a need to learn how to install in a more detailed way, we invite you to read our <b>[Guide on Wiki](https://github.com/webchain-network/webchain-pool/wiki/Detailed-guide-about-Webchain-pool-installation)</b>
+What follows next is the basic short guide. Main page of the project is located at https://webchain.network. If you have a need to learn how to install in a more detailed way, we invite you to read our <b>[Guide on Wiki](https://github.com/mkrufky/webchain-pool/wiki/Detailed-guide-about-Webchain-pool-installation)</b>
 
 ### Features
 
@@ -24,11 +24,11 @@ Dependencies:
 
 **I highly recommend to use Ubuntu 16.04 LTS.**
 
-First install  [webchaind](https://github.com/webchain-network/webchaind/releases).
+First install  [webchaind](https://github.com/mkrufky/webchaind/releases).
 
 Clone & compile:
 
-    git clone https://github.com/webchain-network/webchain-pool.git
+    git clone https://github.com/mkrufky/webchain-pool.git
     cd webchain-pool
     make
 

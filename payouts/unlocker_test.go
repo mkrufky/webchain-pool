@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/webchain-network/webchain-pool/rpc"
-	"github.com/webchain-network/webchain-pool/storage"
+	"github.com/mkrufky/webchain-pool/rpc"
+	"github.com/mkrufky/webchain-pool/storage"
 )
 
 func TestMain(m *testing.M) {

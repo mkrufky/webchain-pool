@@ -1,10 +1,10 @@
 package proxy
 
 import (
-	"github.com/webchain-network/webchain-pool/api"
-	"github.com/webchain-network/webchain-pool/payouts"
-	"github.com/webchain-network/webchain-pool/policy"
-	"github.com/webchain-network/webchain-pool/storage"
+	"github.com/mkrufky/webchain-pool/api"
+	"github.com/mkrufky/webchain-pool/payouts"
+	"github.com/mkrufky/webchain-pool/policy"
+	"github.com/mkrufky/webchain-pool/storage"
 )
 
 type Config struct {

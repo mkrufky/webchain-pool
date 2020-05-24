@@ -7,10 +7,10 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/webchain-network/webchaind/common"
+	"github.com/mkrufky/webchaind/common"
 
-	"github.com/webchain-network/webchain-pool/rpc"
-	"github.com/webchain-network/webchain-pool/util"
+	"github.com/mkrufky/webchain-pool/rpc"
+	"github.com/mkrufky/webchain-pool/util"
 )
 
 const maxBacklog = 3
